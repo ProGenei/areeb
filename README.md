@@ -4,6 +4,8 @@
 Areeb
 predict traffic volume after Capital project ,T5 Zehame Bootcamp
 
+Deployment: https://huggingface.co/spaces/NuhaFaisal/Final_Areeb
+
 Introduction
 Our project aims to enhance the efficiency of urban planning by addressing the problem of traffic congestion in urban areas before starting to build projects in them, so that it gives an idea of the amount of traffic congestion that the project may cause when it is opened. We have developed a model as a path to real data for existing projects (LSTM). The model is intended for analyzing consecutive time data
 
